@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "enewsmailer",
+  "private_key_id": "c88d22200428d5f43383ac1566a5e6a9d63da55d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDevY8wX4REWbDV\n2+YDgA6B1Xqy2yOrYjiyHHZCGH9F0z3dTy9bFgC4n2tryWHr4S88jzcimA+qBzA1\nIF2OaNrdJpFJpFWZl2G0IvPQoai23hE0Wvm9vDQB/UaGVGH8Aez3eRjQcLmOGLtq\nIpwGz/kZK09tuRAs+Oo885sNH+SDU2JxGrpdkUsKfptXyVj1CETKsw1+vfU0lu9t\npVheUNg22Itf/WAFZ51moPP90C4SUJHx8njBMuYBQqaEuRs4o6GmwUxCEAU3YLkj\nsT0y3w2HVIEQylDpkK3cIb6fl0k1paqtvhGqH8j4UYam/JWi9Xl9k51Cz6OJgfOT\ncKaaT32fAgMBAAECggEAAhcR/kM8JQ0Y+t89Nm4yH1IaxZ/ikKKkPu/P9bO5MaL+\n/ELGLPZr3rEp/PWuN2JzEKrdwLOEcevi0qicEUdkqBZE93ZYMOg56o3LB5QJVrXD\np+YLH6jJbZPTvBdKwqmZ3j9i0wJ5HfF/ItDBhALx1HnMo0UcXqDO2hTCdEKTC2UU\n+QDQAhNNwSyg5BlZAmfIC8yYwlH3WQKzQUGCod/blzEYVhW3PTobOd/kV4GGXg9x\noEgTDshG4Aj9ubCac267CTzo/sJkCu4k1xsPbnV5o2Kg/oUDD8OYfpseBrZWEhW/\npwYpf9UNfssd0mCtpMCShuso3I3An5R47KbFf/HB8QKBgQD+hXcuoARWPEAtqJxz\nJTXuhbaWeHZuVaB+NMKjiIeb8op5+wt4wTCd3JrtqWit8WDjsxDEF3RyiI+XH5TF\nXBz7gf9pPZmyMnDHtg8ikzRsynVtXd5nOospmHiFYhZr9gsbL66xMlkx4OZN0wiC\n0zf8sfdTuNuHsKRWsIsac89tLwKBgQDgCNP1Q3i/mc1VKwRvIxg2WeOke5hprAIi\n3JHqgOE3MP/qTvMn9jepd5Q2QP5xhgVymDVYVESdYrFG1UpqZxIGgTuUjt86ofHF\n6aVKNcDPBbo8syWc00VvrwiYT7fdCxv2mHjBHZ7O+efogkYmfp18iBD5zXOu5u3+\nlJW85Mo6kQKBgQD2wwlI4AU0YlfKrKV6EYKXTXY3rnUMBeKDWb23dSAc9uqA1v9J\nROxQsNhYQR3nPpW0TSCdLSxN+s5UM182dVb4FRI+w2Vm2fZz+bP0zolOTH/K1+5P\nYPgZDOUUVIPuie48nl8dFvZZIHXI0Ch5RjUKvrROrHPSu1SpY6KJs+xQKwKBgEPa\nSJ/q7IJTSb42xiQG5AlqFik2CcZPg2IdndABcrStkYTcnoaG6vrXrbr02lt1tOat\nNNLoytNEFd8XMG+jgfEYaPwofXGbpMdFaXtdZmUNHgfOVmD2F/yobZj74/r9p117\ndm8+0l9rjxJ7ilWUWYxjBYky8YuSg5hsViGcxacRAoGBAMYeE3RZnw+dHr3PuvMJ\ny002oyeLh4wiL7E9eFxK+m3QoVEkln8TzbFDGDlMkmjyt/DYKtvQlf49sS7LAVOj\nnYl/jJY2EBS7YrAr/bEirlEHld9RXwRdlV8XJLIfy7wRsszI/7OBHlyQ3XCQNkH0\nNk5KWR/dkQwjjWCtrr7s0Jp7\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-indexing-api@enewsmailer.iam.gserviceaccount.com",
+  "client_id": "110305491988979844837",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-indexing-api%40enewsmailer.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
